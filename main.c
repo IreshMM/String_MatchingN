@@ -19,5 +19,7 @@ void findPattern(char * string, char * pattern) {
         }
 
         if(j == m) printf("%s %d\n", "Pattern found at index:", i);
+
+        
     }
 }
